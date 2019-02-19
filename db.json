@@ -1,14 +1,29 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  {
+    "id": 1001,
+    "title": "Dog 1",
+    "image" : "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12121353/GoldenRetriever1_stacked.jpg",
+    "desc" : "The Golden Retriever is a large-sized breed of dog bred as gun dogs to retrieve shot waterfowl, such as ducks and upland game birds, during hunting and shooting parties, and were named 'retriever' because of their ability to retrieve shot game undamaged"
+  },
+  {
+    "id": 1002,
+    "title": "Dog 2",
+    "image" : "https://cdn2-www.dogtime.com/assets/uploads/2011/01/file_22950_standard-schnauzer-460x290.jpg",
+    "desc" : ""
+
+  },
+  {
+    "id": 1003,
+    "title": "Dog 3",
+    "image" : "",
+    "desc" : "The Bulldog, also known as the British Bulldog or English Bulldog, is a medium-sized breed of dog. It is a muscular, hefty dog with a wrinkled face and a distinctive pushed-in nose. The American Kennel Club, The Kennel Club, and the United Kennel Club oversee breeding records."
+  },
+   {
+    "id": 1004,
+    "title": "Dog 4",
+    "image" : "",
+    "desc" : "This is Dog 4."
   }
+],
 }
