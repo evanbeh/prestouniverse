@@ -1,5 +1,4 @@
-{
-  "posts": [
+[
   {
     "id": 1001,
     "title": "Dog 1",
@@ -25,5 +24,4 @@
     "image" : "",
     "desc" : "This is Dog 4."
   }
-],
-}
+]
